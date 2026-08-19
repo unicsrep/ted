@@ -1,0 +1,22 @@
+{
+  "initial_gold": 100,
+  "initial_lives": 5,
+  "wave_interval": 3,
+  "waves": [
+    {
+      "enemy_type": "basic",
+      "count": 3,
+      "spawn_interval": 2
+    },
+    {
+      "enemy_type": "fast",
+      "count": 5,
+      "spawn_interval": 1
+    },
+    {
+      "enemy_type": "tank",
+      "count": 2,
+      "spawn_interval": 3
+    }
+  ]
+}
